@@ -10,6 +10,7 @@ const Home = () => {
       </main>
       <nav>
         <Link to="/counter">Counter</Link>
+        <Link to="/dataFlow">Data Flow</Link>
       </nav>
     </>
   );
